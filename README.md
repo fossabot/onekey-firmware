@@ -6,6 +6,7 @@
 
 [![Github Stars](https://img.shields.io/github/stars/OneKeyHQ/firmware?t&logo=github&style=for-the-badge&labelColor=000)](https://github.com/OneKeyHQ/firmware/stargazers)
 [![Version](https://img.shields.io/github/release/OneKeyHQ/firmware.svg?style=for-the-badge&labelColor=000)](https://github.com/OneKeyHQ/firmware/releases)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabbie982%2Fonekey-firmware.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabbie982%2Fonekey-firmware?ref=badge_shield)
 [![](https://img.shields.io/github/contributors-anon/OneKeyHQ/firmware?style=for-the-badge&labelColor=000)](https://github.com/OneKeyHQ/firmware/graphs/contributors)
 [![Last commit](https://img.shields.io/github/last-commit/OneKeyHQ/firmware.svg?style=for-the-badge&labelColor=000)](https://github.com/OneKeyHQ/firmware/commits/onekey)
 [![Issues](https://img.shields.io/github/issues-raw/OneKeyHQ/firmware.svg?style=for-the-badge&labelColor=000)](https://github.com/OneKeyHQ/firmware/issues?q=is%3Aissue+is%3Aopen)
@@ -77,3 +78,7 @@ Also please have a look at the [docs](docs/SUMMARY.md) before contributing. The 
 <a href="https://github.com/onekeyhq/firmware/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=onekeyhq/firmware&max=240&columns=24"/>
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabbie982%2Fonekey-firmware.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabbie982%2Fonekey-firmware?ref=badge_large)
